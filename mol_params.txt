@@ -1,0 +1,42 @@
+3.3D-24 
+28.01D0
+0.00D0 
+115271.202D0
+q_co.txt
+0.
+CO_115_N2
+
+#CO_115
+3.3D-24 
+28.01D0
+0.75D0 
+115271.197D0
+q_co.txt
+0.
+CO_115
+
+#CO_230
+2.566D-23
+28.01D0
+0.75D0
+230538.D0
+q_co.txt
+3.845
+CO_230
+
+#O2
+1.E-25
+31.998
+0.754
+118750.3
+q_o2.txt
+0.
+O2_118
+
+#order of the lines
+Intensity (HITRAN, cm/mol)
+molar mass (in arbitrary mass units or g/mol)
+power for T-dependence
+central frequency, GHz or MHz
+filename with partition sum
+lower energy of the transition, 1/cm (HITRAN or whatever)

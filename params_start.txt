@@ -1,0 +1,13 @@
+115271.202  115271.202               1. #central freq
+     3.000       3.000               1. #G0 width
+     0.33        0.33                1. #G2 SD-width
+     0.00        0.00                0. #D2 SD-shift
+     5.E-6       5.E-6               1. #Y mixing coef
+     1.0         1.0                 1. #Intensity scaling factor
+     0.003       0.0                 1. #Power factor (VID and RAD)
+     0.0         0.0                 1. #Baseline 0-order(const)
+     0.0         0.0                 1. #Baseline linear
+     0.0         0.0                 1. #Baseline square
+     0.0         0.0                 0. #Baseline cube
+     0.0         0.0                 0. #2nd harmonic line intensity
+     0.151       0.400               0. #Nu_VC Dicke effect param

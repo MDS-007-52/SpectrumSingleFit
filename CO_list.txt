@@ -1,0 +1,11 @@
+//Do not delete 3 lines of header! Do not add extra lines!
+//First line after header is number of lines to read, next goes data as
+//filename 			n.points  P_CO,Torr P_Ar,Torr 	T,C 	deviation,MHz   type(0 res, 1 RAD FM, 2 video FM, 3 video AM) L, cm
+7
+CO_115_N2_s1_70_0138.dat	151	0.138	0.000	70.	0.8	1	10.
+CO_115_N2_s1_70_0370.dat	151	0.138	0.232	70.	1.5	1	10.
+CO_115_N2_s1_70_0678.dat	151	0.138	0.54	70.	3.	1	10.
+CO_115_N2_s1_70_0966.dat	151	0.138	0.828	70.	5.	1	10.
+CO_115_N2_s1_70_1308.dat	151	0.138	1.17	70.	6.	1	10.
+CO_115_N2_s1_70_1662.dat	151	0.138	1.524	70.	8.	1	10.
+CO_115_N2_s1_70_2023.dat	151	0.138	1.885	70.	10.	1	10.
