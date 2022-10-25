@@ -2,7 +2,7 @@
 .bat
 
 #some IDE files
-*.mak
+.mak
 
 #
 Debug/data_out/
