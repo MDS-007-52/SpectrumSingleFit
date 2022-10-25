@@ -1,11 +1,13 @@
+Git Bash.lnk
+
 #auxilary scripts for git
-.bat
+*.bat
 
 #some IDE files
-.mak
+*.mak
 
 #
-Debug/data_out/
+Debug/
 
 #
 aux_files/
