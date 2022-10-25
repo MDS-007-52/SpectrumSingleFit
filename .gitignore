@@ -1,0 +1,11 @@
+#auxilary scripts for git
+.bat
+
+#some IDE files
+*.mak
+
+#
+Debug/data_out/
+
+#
+aux_files/
